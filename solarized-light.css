@@ -172,6 +172,8 @@ h5,
 h6 {
   font-family: 'PT Sans Narrow', sans-serif;
   font-weight: 700;
+  background-color: #fdf6e3 !important;
+  border-style: none !important;
 }
 html {
   background-color: #eee8d5;
@@ -301,4 +303,3 @@ h6 {
   border-radius: 0.2em;
   background-color: #859900;
 }
-

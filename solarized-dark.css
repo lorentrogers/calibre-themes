@@ -161,6 +161,9 @@ pre,
 code {
   font-family: 'Inconsolata', sans-serif;
 }
+hr {
+  border-color: #586e75;
+}
 h1,
 h2,
 h3,
@@ -169,6 +172,8 @@ h5,
 h6 {
   font-family: 'PT Sans Narrow', sans-serif;
   font-weight: 700;
+  background-color: #002b36 !important;
+  border-style: none !important;
 }
 html {
   background-color: #073642;
@@ -297,4 +302,3 @@ h6 {
   border-radius: 0.2em;
   background-color: #859900;
 }
-
